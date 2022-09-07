@@ -1224,7 +1224,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jistiRoom",
+                 "name":"jitsiRoom",
                  "type":"string",
                  "value":"test"
                 }],
