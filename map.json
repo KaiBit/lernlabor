@@ -101,6 +101,11 @@
                  "name":"jitsiTriggerMessage",
                  "type":"string",
                  "value":"Klicke LEERTASTE um das Meeting zu betreten."
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"jitsihh.f4.htw-berlin.de"
                 }],
          "type":"tilelayer",
          "visible":true,
